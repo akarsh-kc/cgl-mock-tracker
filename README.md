@@ -1,6 +1,6 @@
 # 📊 SSC CGL Maths Tracker & Analytics
 
-A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtopic-wise — so you can actually see where you're strong and where you need work.
+Hey aspirants! A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtopic-wise — so you can actually see where you're strong and where you need work.
 
 🔒 **Your data stays on your own device.** Nothing is uploaded, tracked, or shared with anyone. No login, no account, no data collection — this app doesn't even ask for internet permission unless YOU choose to export your data to Google Sheets (completely optional, only if you want a backup).
 
