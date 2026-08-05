@@ -4,10 +4,10 @@ A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtop
 
 🔒 **Your data stays on your own device.** Nothing is uploaded, tracked, or shared with anyone. No login, no account, no data collection — this app doesn't even ask for internet permission unless YOU choose to export your data to Google Sheets (completely optional, only if you want a backup).
 
-🔗 **Use it now (no install needed):** [akarsh-kc.github.io/cgl-mock-tracker](https://akarsh-kc.github.io/cgl-mock-tracker/)
+📱 Install app (Android):** Download the APK from the [Releases](../../releases) section (Choose CGL.Maths.Analyser.apk) — works just like a regular app on your phone.
 
-📱 **Or install as an app (Android):** Download the APK from the [Releases](../../releases) section  (Choose CGL.Maths.Analyser.apk
-) — works just like a regular app on your phone.
+> ⚠️ **Play Store warning:** When installing the APK, your phone might show a warning saying "Google Play Protect doesn't recognize this app" or "Install unknown apps." This is normal — since this app isn't published on the Play Store, Android shows this generic warning for all sideloaded apps. The app is completely safe (no data collection, no permissions needed), so you can safely ignore this warning and proceed with installation. Just tap "Install anyway" or "More details → Install anyway" to continue.
+
 ### 💻 Desktop
 ![PC 1](pc1.png)
 ![PC 2](pc2.png)
@@ -26,6 +26,7 @@ A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtop
 - No sign-up, no account, no personal information asked
 - Your mock data lives only in your own browser/phone — not on any server
 - The only permission the app ever needs is internet access, and only if you turn on the optional Google Sheets export yourself
+- The app is completely open-source — you can review the code yourself
 
 ## How to use
 1. Open the [live link](https://akarsh-kc.github.io/cgl-mock-tracker/) or install the app from Releases
