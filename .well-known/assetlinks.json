@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.astonishing_zuccutto_080343.twa",
-        "sha256_cert_fingerprints": ["C6:CC:3E:9D:61:35:97:09:11:92:B8:5B:B4:92:C8:0B:E3:34:16:EB:AF:56:49:DD:48:4B:4D:CD:B3:FE:E3:5E"]
+        "package_name": "io.github.akarsh_kc.twa",
+        "sha256_cert_fingerprints": ["F3:04:D0:43:AE:48:E8:1E:7B:4B:CC:73:E3:27:EA:B4:04:8A:0D:E5:0B:25:A0:BE:64:64:D1:42:D6:28:57:4E"]
       }
     }]
