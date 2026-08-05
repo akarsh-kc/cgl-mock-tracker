@@ -6,7 +6,8 @@ A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtop
 
 🔗 **Use it now (no install needed):** [akarsh-kc.github.io/cgl-mock-tracker](https://akarsh-kc.github.io/cgl-mock-tracker/)
 
-📱 **Or install as an app (Android):** Download the APK from the [Releases](../../releases) section — works just like a regular app on your phone.
+📱 **Or install as an app (Android):** Download the APK from the [Releases](../../releases) section  (Choose CGL.Maths.Analyser.apk
+) — works just like a regular app on your phone.
 ### 💻 Desktop
 ![PC 1](pc1.png)
 ![PC 2](pc2.png)
