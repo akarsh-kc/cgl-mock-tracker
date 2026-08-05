@@ -4,7 +4,7 @@ Hey aspirants! A simple tracker to log your SSC CGL Maths mock scores — topic-
 
 🔒 **Your data stays on your own device.** Nothing is uploaded, tracked, or shared with anyone. No login, no account, no data collection — this app doesn't even ask for internet permission unless YOU choose to export your data to Google Sheets (completely optional, only if you want a backup).
 
-📱 Install app (Android):** Download the APK from the [Releases](../../releases) section (Choose CGL.Maths.Analyser.apk) — works just like a regular app on your phone.
+📱 Install app (Android):** Download the APK from the [Releases](../../releases) section (Choose CGL.Maths.Analyser.apk) ** — works just like a regular app on your phone.
 
 > ⚠️ **Play Store warning:** When installing the APK, your phone might show a warning saying "Google Play Protect doesn't recognize this app" or "Install unknown apps." This is normal — since this app isn't published on the Play Store, Android shows this generic warning for all sideloaded apps. The app is completely safe (no data collection, no permissions needed), so you can safely ignore this warning and proceed with installation. Just tap "Install anyway" or "More details → Install anyway" to continue.
 ### 📱 Mobile
