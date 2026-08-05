@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.akarsh_kc.twa",
-        "sha256_cert_fingerprints": ["F3:04:D0:43:AE:48:E8:1E:7B:4B:CC:73:E3:27:EA:B4:04:8A:0D:E5:0B:25:A0:BE:64:64:D1:42:D6:28:57:4E"]
+        "sha256_cert_fingerprints": ["27:3B:A5:82:E9:0C:0F:C0:2A:41:05:98:26:A2:B7:27:11:1E:CA:36:3C:C9:B3:D7:3A:B1:A8:8B:4D:3B:D4:B0"]
       }
     }]
