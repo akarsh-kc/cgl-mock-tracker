@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.astonishing_zuccutto_080343.twa",
+        "sha256_cert_fingerprints": ["C6:CC:3E:9D:61:35:97:09:11:92:B8:5B:B4:92:C8:0B:E3:34:16:EB:AF:56:49:DD:48:4B:4D:CD:B3:FE:E3:5E"]
+      }
+    }]
