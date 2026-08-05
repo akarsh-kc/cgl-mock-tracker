@@ -1,28 +1,29 @@
-# 📊 SSC CGL Maths Tracker
+# 📊 SSC CGL Maths Tracker & Analytics
 
-A simple tracker built specially for SSC CGL Tier 1 Maths preparation — log your mock scores topic-wise and sub-topic-wise, and let the built-in smart system show you exactly where you're strong and where you need more practice.
+A simple tracker to log your SSC CGL Maths mock scores — topic-wise and subtopic-wise — so you can actually see where you're strong and where you need work.
 
-🔗 **Use it now:** [akarsh-kc.github.io/cgl-mock-tracker](https://akarsh-kc.github.io/cgl-mock-tracker/)
+🔒 **Your data stays on your own device.** Nothing is uploaded, tracked, or shared with anyone. No login, no account, no data collection — this app doesn't even ask for internet permission unless YOU choose to export your data to Google Sheets (completely optional, only if you want a backup).
 
-📱 **Install as an app (Android):** Download the APK from the [Releases](../../releases) section.
+🔗 **Use it now (no install needed):** [akarsh-kc.github.io/cgl-mock-tracker](https://akarsh-kc.github.io/cgl-mock-tracker/)
 
-## 🔒 Your data is 100% safe
-- All your mock scores stay **only on your own device** — nothing is ever uploaded, collected, or shared with anyone, including us.
-- No login, no account, no internet required to use it day-to-day.
-- The app only ever needs permission if **you** choose to import your data — nothing else.
-- Completely free, made for fellow aspirants.
+📱 **Or install as an app (Android):** Download the APK from the [Releases](../../releases) section — works just like a regular app on your phone.
 
-## ✨ What it does
-- Log every maths mock, broken down **topic-wise and sub-topic-wise** (Algebra, Geometry, Trigonometry, DI, etc.)
-- Built-in **smart rule-based system** that studies your entries and highlights your weak topics automatically
-- Clear visual charts to track your improvement over time
-- Works even without internet once opened
-- Simple dark mode for late-night revision
+## What it does
+- Log your Maths mock scores **topic-wise and subtopic-wise** (Algebra, Geometry, Trigonometry, etc. — broken down further, not just one total score)
+- Built-in smart rule-based system that helps highlight your weak areas automatically, based on your own performance patterns
+- See your progress over time with clear analytics
+- Works fully offline once opened — no internet needed for daily use
+- Optional Google Sheets sync, only if you want to back up or view your data outside the app — entirely your choice, never automatic
 
-## 🚀 How to use
-1. Open the [live link](https://akarsh-kc.github.io/cgl-mock-tracker/) in any browser — or install the Android app from Releases for a proper app experience
-2. After every mock, log your topic-wise and sub-topic-wise scores
-3. Check the analytics page anytime to see your weak areas and progress
+## Why it's safe to use
+- No sign-up, no account, no personal information asked
+- Your mock data lives only in your own browser/phone — not on any server
+- The only permission the app ever needs is internet access, and only if you turn on the optional Google Sheets export yourself
+
+## How to use
+1. Open the [live link](https://akarsh-kc.github.io/cgl-mock-tracker/) or install the app from Releases
+2. Add a mock test, entering your topic-wise and subtopic-wise Maths scores
+3. Check the analytics dashboard to see your strong and weak areas
 
 ---
-Built by an aspirant, for aspirants — no ads, no tracking, no nonsense. Just log your mocks and study smarter.
+Built by an aspirant, for aspirants. Free to use — share it with anyone preparing for SSC CGL.
